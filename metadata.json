@@ -1,7 +1,7 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-05-08",
+      "build-date": "2025-05-29",
       "codified-date": "0001-01-01",
       "platform": {
         "reproducible": "false",
@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "6b50b61f60cefd4c74b51a41f8e221bb66c069b1",
+          "commit": "40c7e00b9b5dda029ceff9d70f9b7b91459565c9",
           "name": "maryland-dsd/law-xml"
         },
         {
-          "commit": "c7e60470099a7a470aea0e3cdf9e53700fdc5d56",
+          "commit": "1cd1577d330cfee3ef9b8cc82d493a714bcf4af2",
           "name": "maryland-dsd/law-xml-codified-preview"
         }
       ],
