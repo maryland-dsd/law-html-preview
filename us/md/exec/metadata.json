@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "e80d5e79e3d3070df6dfc1d0b7454f808fc00733",
+          "commit": "5bee502347bc5c08339741069b5629c3badcf974",
           "name": "maryland-dsd/law-xml"
         },
         {
-          "commit": "2316dd35daa7824c06f98d1927932ec21b09eaf6",
+          "commit": "35dac9fb1abbfd332ea71808aa23d617fb667b98",
           "name": "maryland-dsd/law-xml-codified-preview"
         }
       ],
