@@ -1,19 +1,19 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-08-14",
-      "codified-date": "0001-01-01",
+      "build-date": "2025-08-19",
+      "codified-date": "2025-08-04",
       "platform": {
         "reproducible": "false",
-        "version": "2.17.0"
+        "version": "2.17.8"
       },
       "repositories": [
         {
-          "commit": "f1bf1732e21d4f0851219c9c47d267f958c4c69f",
+          "commit": "1de6efe47b5e5f7a75343944f7d2599ccc0d450f",
           "name": "maryland-dsd/law-xml"
         },
         {
-          "commit": "3e3a9a9d8b2e54b385e2df34181741ffae27f2d2",
+          "commit": "306a1a43ff960349f04190b16ca27af89541c58c",
           "name": "maryland-dsd/law-xml-codified-preview"
         }
       ],
@@ -33,23 +33,6 @@
     "contact": {
       "email": "help@openlawlib.org"
     },
-    "description": "",
-    "licenses": [
-      {
-        "name": "default",
-        "rights": "The codes and laws on this page are released under a CC-BY-SA license. 180 days after publication they will be dedicated to the public domain under the CC0 license."
-      },
-      {
-        "name": "CC-BY-SA 4.0",
-        "rights": "Copyright State of Maryland. Licensed under the CC-BY-SA 4.0 license.",
-        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
-      },
-      {
-        "after-days": "180",
-        "name": "CC0",
-        "rights": "The codes and laws on this page are dedicated to the public domain under the CC0 license.",
-        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
-      }
-    ]
+    "description": ""
   }
 }
