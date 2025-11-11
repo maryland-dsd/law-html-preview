@@ -1,19 +1,19 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-11-05",
-      "codified-date": "2025-10-27",
+      "build-date": "2025-11-11",
+      "codified-date": "2025-11-10",
       "platform": {
         "reproducible": "false",
-        "version": "2.17.18"
+        "version": "2.17.4"
       },
       "repositories": [
         {
-          "commit": "6361f50f34d8495d01be0dc8cf4e2ede6701afb2",
+          "commit": "888dd6cd9bc66430775db3c982e9898dd791560c",
           "name": "maryland-dsd/law-xml"
         },
         {
-          "commit": "6b3568a360da08eb46d95b7690cc4d38edcc75bc",
+          "commit": "5ac1d6270d33b5e8f7d748b0d147b5f54ea7ce43",
           "name": "maryland-dsd/law-xml-codified-preview"
         }
       ],
@@ -22,7 +22,7 @@
       }
     },
     "canonical-urls": {
-      "html": "",
+      "html": "http://regs.maryland.gov/",
       "html-bulk": "https://github.com/maryland-dsd/law-html",
       "html-cc0-bulk": "https://github.com/maryland-dsd/law-html-cc0",
       "law-git": "https://github.com/maryland-dsd/law.git",
@@ -34,6 +34,7 @@
       "email": "help@openlawlib.org"
     },
     "description": "",
+    "history-start": "2025-08-18",
     "licenses": [
       [
         {
@@ -46,7 +47,7 @@
         "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
       },
       {
-        "after-date": "2026-05-04",
+        "after-date": "2026-05-10",
         "days-after-publication": "180",
         "license": "CC0-1.0",
         "rights": "<p>This version of the laws and codes on this website is dedicated to the public domain under the <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0 1.0</a> license.</p>",
