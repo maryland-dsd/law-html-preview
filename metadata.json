@@ -1,7 +1,7 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-11-11",
+      "build-date": "2025-11-12",
       "codified-date": "2025-11-10",
       "platform": {
         "reproducible": "false",
@@ -13,7 +13,7 @@
           "name": "maryland-dsd/law-xml"
         },
         {
-          "commit": "6f8bfe535b2435063fe48c934252f7c40045b136",
+          "commit": "fda6c05cee013777f858dfeac871b92e64bc2052",
           "name": "maryland-dsd/law-xml-codified-preview"
         }
       ],
@@ -47,7 +47,7 @@
         "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
       },
       {
-        "after-date": "2026-05-10",
+        "after-date": "2026-05-11",
         "days-after-publication": "180",
         "license": "CC0-1.0",
         "rights": "<p>This version of the laws and codes on this website is dedicated to the public domain under the <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0 1.0</a> license.</p>",
