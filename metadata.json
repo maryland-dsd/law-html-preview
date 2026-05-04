@@ -1,21 +1,21 @@
 {
   "meta": {
     "build": {
-      "build-date": "2026-04-21",
-      "ci-build-number": "1.0.110",
+      "build-date": "2026-05-04",
+      "ci-build-number": "1.0.116",
       "ci-project": "maryland-dsd/law-xml",
       "codified-date": "2026-05-11",
       "platform": {
         "reproducible": "false",
-        "version": "2.20.1"
+        "version": "2.20.4"
       },
       "repositories": [
         {
-          "commit": "1992a11ba213d66d6a0e7e91a24b9e4dbf37fcb5",
+          "commit": "41ae3e24624fb4c4a39dd4cfb3646731fdf12fed",
           "name": "maryland-dsd/law-xml"
         },
         {
-          "commit": "fe9da73bd46ec3f34df211a39849d791ac782155",
+          "commit": "f1903f5d971b1eb15e6d40a35cb64142f17ec5ab",
           "name": "maryland-dsd/law-xml-codified-preview"
         }
       ],
@@ -29,8 +29,8 @@
       "html-cc0-bulk": "https://github.com/maryland-dsd/law-html-cc0",
       "law-git": "https://github.com/maryland-dsd/law.git",
       "static-assets": "https://github.com/maryland-dsd/law-static-assets",
-      "xml-bulk": "https://github.com/maryland-dsd/law-xml",
-      "xml-cc0-bulk": "https://github.com/maryland-dsd/law-xml-cc0"
+      "xml-bulk": "https://github.com/maryland-dsd/law-xml-codified",
+      "xml-cc0-bulk": "https://github.com/maryland-dsd/law-xml-codified-cc0"
     },
     "contact": {
       "email": "help@openlawlib.org"
